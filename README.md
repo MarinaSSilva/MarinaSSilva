@@ -1,20 +1,18 @@
+<!-- HEADER ATUAL (VISÍVEL) -->
 <div align="center">
-  <h1>
-    <img src="https://emojis.slackmojis.com/emojis/2020-06-04/43604/engineer.gif" width="40" />
-    Marina Silva
-    <img src="https://emojis.slackmojis.com/emojis/2020-06-04/43604/engineer.gif" width="40" />
-  </h1>
-  <h3>🏗️ Engenharia Civil → 📡 Telecom → 🤖 Inteligência Artificial</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/AutoCAD-DA291C?style=for-the-badge&logo=autodesk&logoColor=white" />
-  </p>
+   <img src="https://raw.githubusercontent.com/MarinaSSilva/assets/main/banner/Black and White Creative Profile Information LinkedIn Article Cover Image.png" alt="Banner Marina Silva" width="100%" />
 </div>
 
----
+<!-- 
+==========================================
+VERSÃO ALTERNATIVA (COMENTADA - INVISÍVEL)
+==========================================
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Marina%20Silva&fontSize=80&fontAlignY=35&animation=fadeIn" />
+</div>
+
+-->
 
 ### 🌟 Sobre mim
 
