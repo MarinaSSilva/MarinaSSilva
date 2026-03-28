@@ -1,14 +1,18 @@
-<!-- Header com imagem opcional -->
-<h1 align="center">✨ Marina Silva ✨</h1>
-<h3 align="center">🎓 Inteligência Artificial & Machine Learning | 📡 Telecom | 🏗️ Engenharia Civil</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-DA291C?style=flat-square&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
+<div align="center">
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/2020-06-04/43604/engineer.gif" width="40" />
+    Marina Silva
+    <img src="https://emojis.slackmojis.com/emojis/2020-06-04/43604/engineer.gif" width="40" />
+  </h1>
+  <h3>🏗️ Engenharia Civil → 📡 Telecom → 🤖 Inteligência Artificial</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/AutoCAD-DA291C?style=for-the-badge&logo=autodesk&logoColor=white" />
+  </p>
+</div>
 
 ---
 
