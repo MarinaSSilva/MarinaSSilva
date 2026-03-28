@@ -18,7 +18,7 @@
 
 ### 🌟 Sobre mim
 
-> *"Arranjadora, Incluidora, Aluna, Realizadora, Restauradora"* — meus 5 pontos fortes, segundo minhas próprias métricas.  
+> *"Arranjadora, Incluidora, Aluna, Realizadora, Restauradora"* — meus 5 pontos fortes.  
 > Um bom dia é quando concluo a lista de afazeres. Um dia perfeito? Quando ainda conserto algo que estava quebrado no caminho.
 
 Sou uma profissional em **transição para Inteligência Artificial**, unindo minha bagagem de mais de **10 anos em engenharia e telecomunicações** ao estudo aprofundado de **Machine Learning e dados**.
